@@ -1,4 +1,4 @@
-# 💫Hello World! I'm Satyam, a Indian Full Stack Developer  
+# 💫 Hello World! I'm Satyam, a Indian Full Stack Developer
 Full Stack Java Developer (Trainee) | Passionate about Building Scalable Web Applications<br><br>I am a dedicated Full Stack Java Developer currently undergoing intensive training at Naresh IT, with a strong foundation in both frontend and backend technologies. My technical skill set includes Java, Advanced Java, Spring, Spring Boot, SQL, PL/SQL, HTML, CSS, JavaScript, React.js, Bootstrap, and Tailwind CSS. I specialize in developing responsive, efficient, and scalable web applications. With a strong focus on clean code, performance, and modern UI/UX practices, I’m driven to contribute to innovative development teams and grow into a versatile and impactful software engineer.
 
 
@@ -14,9 +14,6 @@ Full Stack Java Developer (Trainee) | Passionate about Building Scalable Web App
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=satyamk-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=satyamk-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
